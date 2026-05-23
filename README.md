@@ -1,1 +1,3 @@
-# dipl0matistbot
+# Telegram Bot
+
+Simple Telegram bot hosted on Render.
